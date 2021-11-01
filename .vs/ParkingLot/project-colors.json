@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfeed048-970b-4740-b86b-410f7646d370": {
+      "ProjectGuid": "cfeed048-970b-4740-b86b-410f7646d370",
+      "DisplayName": "ParkingLot",
+      "ColorIndex": 0
+    },
+    "8b717bf5-328d-4b3d-8fcd-5e2fab0edcd5": {
+      "ProjectGuid": "8b717bf5-328d-4b3d-8fcd-5e2fab0edcd5",
+      "DisplayName": "ParkingLotTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

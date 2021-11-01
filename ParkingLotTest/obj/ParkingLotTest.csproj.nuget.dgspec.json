@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLotTest\\ParkingLotTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLotTest\\ParkingLotTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLotTest\\ParkingLotTest.csproj",
+        "projectName": "ParkingLotTest",
+        "projectPath": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLotTest\\ParkingLotTest.csproj",
+        "packagesPath": "C:\\Users\\mittalaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLotTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mittalaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.blackstone.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\ParkingLot.csproj": {
+                "projectPath": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\ParkingLot.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\ParkingLot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
+        "projectName": "ParkingLot",
+        "projectPath": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
+        "packagesPath": "C:\\Users\\mittalaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mittalaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.blackstone.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

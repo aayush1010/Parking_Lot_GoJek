@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AIJJQ76GrQm3Q0DUDsNMeKE00ET5O5WdCidPAY+svsmjGttDnlDcXjlCd9UussbH/gLX8GHMOC/z0BddTiypvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mittalaa\\OneDrive - Blackstone\\Downloads\\Personal\\Parking_Lot_GoJek\\ParkingLot\\ParkingLot\\ParkingLot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mittalaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
